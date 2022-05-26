@@ -1,0 +1,26 @@
+{
+  "name": "invision",
+  "version": "1.0.0",
+  "description": "web and rest api and db",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronitu1988/Invision.git"
+  },
+  "author": "MRT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronitu1988/Invision/issues"
+  },
+  "homepage": "https://github.com/ronitu1988/Invision#readme",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.0"
+  }
+}
